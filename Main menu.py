@@ -1,0 +1,10 @@
+print('welcome to the data analyzer and transformer program \n')
+def main_menu():
+    print('1. input data')
+    print('2. display data summary (built-in functions)')
+    print('3. calculate factorial (recursion)')
+    print('4.filter data by threshold (lambda function)')
+    print('5 sort data')
+    print('6. display dataset statistics (return multiple values)')
+    print('7. exit program')
+main_menu()
